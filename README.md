@@ -1,5 +1,7 @@
 # 💫 About Me:
-👨🏼‍🎓 studying go lang
+🛜 currently working on my own [webpage](https://tahmidly.netlify.app)<br>
+👨🏼‍🎓 Studying Golang
+Studying Javascript
 
 
 ## 🌐 Socials:
